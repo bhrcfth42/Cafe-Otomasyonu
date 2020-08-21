@@ -1,0 +1,72 @@
+[{
+  "_id": {
+    "$oid": "5e84a1356df5ff2ca05f3d2e"
+  },
+  "kategori_adi": "kategori1",
+  "urunList": [
+    {
+      "urun_adi": "c",
+      "urun_fiyat": 8.25
+    },
+    {
+      "urun_adi": "f",
+      "urun_fiyat": 3
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5e84a1356df5ff2ca05f3d2f"
+  },
+  "kategori_adi": "kategori2",
+  "urunList": [
+    {
+      "urun_adi": "b",
+      "urun_fiyat": 22.5
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5e887a02b5620000480062d5"
+  },
+  "kategori_adi": "kategori3",
+  "urunList": [
+    {
+      "urun_adi": "a",
+      "urun_fiyat": 3
+    },
+    {
+      "urun_adi": "b",
+      "urun_fiyat": 5
+    },
+    {
+      "urun_adi": "c",
+      "urun_fiyat": 6
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5ed8073533640000260019b4"
+  },
+  "kategori_adi": "kategori 4",
+  "urunList": [
+    {
+      "urun_adi": "asd",
+      "urun_fiyat": 23
+    },
+    {
+      "urun_adi": "c",
+      "urun_fiyat": 12.34
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5ed80b3133640000260019b7"
+  },
+  "kategori_adi": "Scak içecek",
+  "urunList": [
+    {
+      "urun_adi": "çay",
+      "urun_fiyat": 2
+    }
+  ]
+}]
