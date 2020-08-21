@@ -8,3 +8,6 @@ Flutter+MongoDb+PhpWebApi
 Flutter Mobil uyulama ile yazmış olduğum cafe programıdır.
 Veri Tabanı NoSQL kullanıldı. (MongoDB)
 Haberleşme için Web API olarak PHP kullanıldı.
+
+## Sipariş Verme Ekranı
+![Cafe-GIF-2](https://user-images.githubusercontent.com/50529546/90882765-2ce4cf80-e3b5-11ea-8c3a-55d59ee57e04.gif)
